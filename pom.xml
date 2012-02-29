@@ -9,6 +9,11 @@
     <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+ <scm>
+	<connection>scm:git:git@github.com:msmorul/irods-api.git</connection>
+	<url>scm:git:git@github.com:msmorul/irods-api.git</url>
+	<developerConnection>scm:git:git@github.com:msmorul/irods-api.git</developerConnection>
+  </scm>
 <dependencies>
         <dependency>
             <groupId>log4j</groupId>
